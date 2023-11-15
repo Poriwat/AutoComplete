@@ -1,0 +1,127 @@
+[{
+    "district": "คลองท่อมเหนือ",
+    "amphoe": "คลองท่อม",
+    "province": "กระบี่",
+    "zipcode": 81120,
+    "district_code": 810402,
+    "amphoe_code": 8104,
+    "province_code": 81
+},
+{
+    "district": "คลองท่อมใต้",
+    "amphoe": "คลองท่อม",
+    "province": "กระบี่",
+    "zipcode": 81120,
+    "district_code": 810401,
+    "amphoe_code": 8104,
+    "province_code": 81
+},
+{
+    "district": "คลองพน",
+    "amphoe": "คลองท่อม",
+    "province": "กระบี่",
+    "zipcode": 81170,
+    "district_code": 810403,
+    "amphoe_code": 8104,
+    "province_code": 81
+},
+{
+    "district": "ทรายขาว",
+    "amphoe": "คลองท่อม",
+    "province": "กระบี่",
+    "zipcode": 81170,
+    "district_code": 810404,
+    "amphoe_code": 8104,
+    "province_code": 81
+},
+{
+    "district": "พรุดินนา",
+    "amphoe": "คลองท่อม",
+    "province": "กระบี่",
+    "zipcode": 81120,
+    "district_code": 810406,
+    "amphoe_code": 8104,
+    "province_code": 81
+},
+{
+    "district": "ห้วยน้ำขาว",
+    "amphoe": "คลองท่อม",
+    "province": "กระบี่",
+    "zipcode": 81120,
+    "district_code": 810405,
+    "amphoe_code": 8104,
+    "province_code": 81
+},
+{
+    "district": "เพหลา",
+    "amphoe": "คลองท่อม",
+    "province": "กระบี่",
+    "zipcode": 81120,
+    "district_code": 810407,
+    "amphoe_code": 8104,
+    "province_code": 81
+},
+{
+    "district": "คีรีวง",
+    "amphoe": "ปลายพระยา",
+    "province": "กระบี่",
+    "zipcode": 81160,
+    "district_code": 810604,
+    "amphoe_code": 8106,
+    "province_code": 81
+},
+{
+    "district": "กลอนโด",
+    "amphoe": "ด่านมะขามเตี้ย",
+    "province": "กาญจนบุรี",
+    "zipcode": 71260,
+    "district_code": 710115,
+    "amphoe_code": 7111,
+    "province_code": 71
+},
+{
+    "district": "จรเข้เผือก",
+    "amphoe": "ด่านมะขามเตี้ย",
+    "province": "กาญจนบุรี",
+    "zipcode": 71260,
+    "district_code": 710114,
+    "amphoe_code": 7111,
+    "province_code": 71
+},
+{
+    "district": "ด่านมะขามเตี้ย",
+    "amphoe": "ด่านมะขามเตี้ย",
+    "province": "กาญจนบุรี",
+    "zipcode": 71260,
+    "district_code": 710112,
+    "amphoe_code": 7111,
+    "province_code": 71
+},
+{
+    "district": "หนองไผ่",
+    "amphoe": "ด่านมะขามเตี้ย",
+    "province": "กาญจนบุรี",
+    "zipcode": 71260,
+    "district_code": 711104,
+    "amphoe_code": 7111,
+    "province_code": 71
+},
+{
+    "district": "ชะแล",
+    "amphoe": "ทองผาภูมิ",
+    "province": "กาญจนบุรี",
+    "zipcode": 71180,
+    "district_code": 710705,
+    "amphoe_code": 7107,
+    "province_code": 71
+},
+{
+    "district": "ท่าขนุน",
+    "amphoe": "ทองผาภูมิ",
+    "province": "กาญจนบุรี",
+    "zipcode": 71180,
+    "district_code": 710701,
+    "amphoe_code": 7107,
+    "province_code": 71
+}
+]
